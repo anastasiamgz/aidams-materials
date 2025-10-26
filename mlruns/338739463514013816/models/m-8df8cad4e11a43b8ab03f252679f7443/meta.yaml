@@ -1,0 +1,10 @@
+artifact_location: file:///Users/anastasiabouevdombre/Documents/AIDAMS/S5_Classes/research_and_emerging_topics/s3/aidams-materials/mlruns/338739463514013816/models/m-8df8cad4e11a43b8ab03f252679f7443/artifacts
+creation_timestamp: 1761515991199
+experiment_id: '338739463514013816'
+last_updated_timestamp: 1761515992625
+model_id: m-8df8cad4e11a43b8ab03f252679f7443
+model_type: null
+name: tuned_random_forest_model
+source_run_id: 8686b0ea6e3744f3ad68c0b278f0fd02
+status: 2
+status_message: null

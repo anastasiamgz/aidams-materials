@@ -1,0 +1,22 @@
+artifact_path: file:///Users/anastasiabouevdombre/Documents/AIDAMS/S5_Classes/research_and_emerging_topics/s3/aidams-materials/mlruns/338739463514013816/models/m-ceb0940a15c443b6b81a0c8ca8e7976a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-ceb0940a15c443b6b81a0c8ca8e7976a
+model_size_bytes: 654
+model_uuid: m-ceb0940a15c443b6b81a0c8ca8e7976a
+prompts: null
+run_id: 2cab5eee3a5a4be9a1242acdbe9be0a5
+utc_time_created: '2025-10-26 21:57:34.286566'

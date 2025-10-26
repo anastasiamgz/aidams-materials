@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anastasiabouevdombre/Documents/AIDAMS/S5_Classes/research_and_emerging_topics/s3/aidams-materials/mlruns/338739463514013816/bdbaff73346340548e6225755eb00638/artifacts
+end_time: 1761515704111
+entry_point_name: ''
+experiment_id: '338739463514013816'
+lifecycle_stage: active
+run_id: bdbaff73346340548e6225755eb00638
+run_name: Ridge_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761515702777
+status: 3
+tags: []
+user_id: anastasiabouevdombre

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anastasiabouevdombre/Documents/AIDAMS/S5_Classes/research_and_emerging_topics/s3/aidams-materials/mlruns/338739463514013816/d1c85a72daaa486e96b0274410b62c7b/artifacts
+end_time: 1761515857104
+entry_point_name: ''
+experiment_id: '338739463514013816'
+lifecycle_stage: active
+run_id: d1c85a72daaa486e96b0274410b62c7b
+run_name: Default_Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761515855386
+status: 3
+tags: []
+user_id: anastasiabouevdombre

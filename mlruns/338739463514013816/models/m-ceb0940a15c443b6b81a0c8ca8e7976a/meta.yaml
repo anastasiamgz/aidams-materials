@@ -1,0 +1,10 @@
+artifact_location: file:///Users/anastasiabouevdombre/Documents/AIDAMS/S5_Classes/research_and_emerging_topics/s3/aidams-materials/mlruns/338739463514013816/models/m-ceb0940a15c443b6b81a0c8ca8e7976a/artifacts
+creation_timestamp: 1761515854281
+experiment_id: '338739463514013816'
+last_updated_timestamp: 1761515855351
+model_id: m-ceb0940a15c443b6b81a0c8ca8e7976a
+model_type: null
+name: ridge_regression_model
+source_run_id: 2cab5eee3a5a4be9a1242acdbe9be0a5
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/anastasiabouevdombre/Documents/AIDAMS/S5_Classes/research_and_emerging_topics/s3/aidams-materials/mlruns/414126590529980162/models/m-909a78fa4957453084f3585dc1642ccd/artifacts
+creation_timestamp: 1761516781653
+experiment_id: '414126590529980162'
+last_updated_timestamp: 1761516782888
+model_id: m-909a78fa4957453084f3585dc1642ccd
+model_type: null
+name: model
+source_run_id: f30b3b880acb4dd696ed25362920867a
+status: 2
+status_message: null
